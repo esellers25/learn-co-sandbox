@@ -1,0 +1,2 @@
+current president = "Donald Trump"
+puts "From 2017 to 2020, #{current president} was President of the United States." 
